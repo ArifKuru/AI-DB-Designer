@@ -1,0 +1,7 @@
+RewriteEngine On
+
+# login → auth/login.php
+RewriteRule ^login/?$ auth/login.php [L]
+RewriteRule ^register/?$ auth/register.php [L]
+
+RewriteRule ^logout/?$ auth/logout.php [L]

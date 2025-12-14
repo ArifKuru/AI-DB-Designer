@@ -1,0 +1,9 @@
+RewriteEngine On
+
+# .php uzantısını gizle
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^(.+)$ $1.php [L]
+
+# Trailing slash varsa kaldırmak istersen (opsiyonel)
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.+)/$ $1 [L,R=301]
