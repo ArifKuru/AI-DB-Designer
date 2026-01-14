@@ -21,7 +21,7 @@ For developers, especially those working on multiple projects simultaneously, th
 
 The platform is built on a **PHP-based architecture** with a **MySQL database**, utilizing the MVC pattern for clean separation of concerns:
 
-- **PHP 8.x**: Server-side logic and API endpoints , not tested lower versions might require minimal configurations you can still use with lower versions if needed
+- **PHP 8.x**: Server-side logic and API endpoints , this project not tested with lower versions ,but you can still use with lower versions if needed , might require minimal configurations 
 - **MySQL/PDO**: Database management with prepared statements for security
 - **Gemini AI (2.5 Flash Lite)**: Natural language processing and intelligent analysis
 - **Session-based Authentication**: Secure user management
@@ -468,3 +468,4 @@ The project focuses on making database schema generation more efficient and acce
 ---
 
 *This project showcases the intersection of artificial intelligence and traditional database theory, proving that automation and best practices can coexist harmoniously.*
+
