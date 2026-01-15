@@ -446,7 +446,7 @@ The project focuses on making database schema generation more efficient and acce
 | **Backend** | PHP 8.x, PDO/MySQL |
 | **AI Engine** | Google Gemini 2.5 Flash Lite |
 | **Visualization** | Viz.js (Graphviz), SVG Pan Zoom |
-| **Architecture** | MVC Pattern, RESTful APIs |
+| **Architecture** | Basic Request & Response Architecure PHP for backend short activations and Frontend Consumes those endpoints |
 
 ---
 
@@ -468,5 +468,6 @@ The project focuses on making database schema generation more efficient and acce
 ---
 
 *This project showcases the intersection of artificial intelligence and traditional database theory, proving that automation and best practices can coexist harmoniously.*
+
 
 
