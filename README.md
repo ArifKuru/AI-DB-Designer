@@ -2,7 +2,7 @@
 
 ## Overview
 
-AI Database Architect is a web-based application that automatically generates relational database schemas from user-defined business rules.
+AI Database Architect is a web-based application that automatically generates relational database schemas from user-defined business rules.For DB-First Projects
 
 ## The Challenge
 
@@ -468,4 +468,5 @@ The project focuses on making database schema generation more efficient and acce
 ---
 
 *This project showcases the intersection of artificial intelligence and traditional database theory, proving that automation and best practices can coexist harmoniously.*
+
 
